@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <string name="add_pc">Add PC</string>
+    <string name="del_pc">Delete PC</string>
+    <string name="add_brand">Add Brand</string>
+    <string name="del_brand">Delete brand</string>
+    <string name="noname_brand">Noname brand</string>
+    <string name="noname_pc">Noname pc</string>
+    <string name="done">Done</string>
+    <string name="nope">Nope</string>
+    <string name="brand_name">Brand name</string>
+    <string name="pc_name">PC name</string>
+    <string name="brand_products">Brand products:</string>
+    <string name="brand">Brand:</string>
+    <string name="choose_brand">Choose brand :</string>
+</resources>
